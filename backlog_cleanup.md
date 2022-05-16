@@ -1,6 +1,5 @@
 # Title: Backlog Cleanup
-
-## My personal statement
+How to Implement the %{name}?
 
 
 ## What Is
