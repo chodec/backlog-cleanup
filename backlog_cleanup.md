@@ -1,7 +1,5 @@
 # Title
 
-**TL;DR**
-
 //short sum up of your article
 
 ## What Is
