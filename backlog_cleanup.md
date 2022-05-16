@@ -1,6 +1,6 @@
 # Title: Backlog Cleanup
 
-//short sum up of your article
+My statement
 
 ## What Is
 
