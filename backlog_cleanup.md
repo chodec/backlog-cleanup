@@ -42,13 +42,6 @@ https://backlog.com/
 
 In my opinion, it doesn't make sense to refer to a product manager phase as backlog cleaning. This thing needs to be monitored much more frequently and needs to be further consulted with the developers. For example, a good time to consult on tickets that wouldn't make sense later in development is Stand up or Grooming, where everyone has dedicated time for that project. Of course, it's best to work things out as a team and choose appropriate questions such as, "Is this feature still in demand?" or " Does it make sense to create documentation for the Russian market at this time?" and after a subsequent debate, a solution may emerge in the form of deleting the feature from the backlog, modifying it, or keeping it.
 
-## What Is
+## Resources for Backlog Cleanup
 
-![Alt Name](/files/your image)
-[Name](https://image source)
-
-## Reasons for
-
-## Resources for
-
-- [Mock Up Resource](https://dxkb.io)
+- [Mountain goat](https://www.mountaingoatsoftware.com/blog/4-tips-for-spring-cleaning-your-product-backlog)
