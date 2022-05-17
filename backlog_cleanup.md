@@ -1,5 +1,9 @@
 # Title: Backlog Cleanup
 
+It's a form of cleaning up tickets that are left in our backlog and their development is either delayed or doesn't make sense at the moment. 
+
+## What is Backlog Cleanup?
+
 Backlog cleaning is very important and very underestimated in product management. If this process is not started on time, chaos can ensue, making the work of everyone involved uncomfortable and can immensely delay the delivery of the promised product. The reason for this is simple and can start early in the development process, no matter how great the product manager's skills are, they will always accumulate tickets that are unusable later in the development process or have their solution already.
 
 ## Why You Might Want the clean your backlog?
