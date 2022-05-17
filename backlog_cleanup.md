@@ -1,27 +1,25 @@
 ---
-slug: pull-requests
+slug: backlog-cleanup
 stages:
   - development
-short_description: Pull requests tell other team members that you changed something in the code and pushed the change to a branch in a git repository. Then other members can review and discuss the changes before the changes are merged into the master branch.
+short_description: It's a form of cleaning up tickets that are left in our backlog and their development is either delayed or doesn't make sense at the moment. A clean backlog will make our development clearer and faster.
 tags:
-  - pull requests
+  - backlog
   - git
-  - ci/cd
+  - tickets
   - teamwork
-  - Continuous Integration
-  - continuous delivery
-  - Bus Factor
-  - code review
+  - scrum
+  - grooming
+  - kanban
+  - sprint
 keywords:
+  - backlog
   - git
-  - commit
-  - branch
-  - repository
-  - code
-  - quality
-  - merge request
-  - meaningless work
-author_github_username: prokopsimek
+  - tickets
+  - backlog management
+  - scrum
+  - sprint backlog	
+author_github_username: Dominik L.
 ---
 # Backlog Cleanup
 
